@@ -62,4 +62,3 @@ if __name__ == '__main__':
     print(integrate('x ** 2 - 1', -1, 1))
 
 
-    #""
